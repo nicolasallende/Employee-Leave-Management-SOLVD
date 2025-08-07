@@ -1,2 +1,9 @@
 # Employee-Leave-Management-SOLVD
-Employee leave management system, it should calculate the number of days available and the corresponding payout, if applicable
+
+## 📖 Table of Contents
+
+- [Overview](#overview)
+
+## 🧭 Overview
+
+This project is designed to manage employees leave. When an employee requests vacation days, the system calculates the number of days available and the corresponding payout, if applicable.
